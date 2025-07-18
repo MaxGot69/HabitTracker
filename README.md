@@ -14,7 +14,7 @@ HabitTracker is a minimal and elegant iOS application for building and tracking 
 ## Screenshots
 
 <p float="left">
-  <img src="Screenshots/simulator_1.png" width="250">
+  <img src="HabitTracker/Screenshots/simulator_1.png" width="250">
   <img src="Screenshots/simulator_2.png" width="250">
   <img src="Screenshots/simulator_3.png" width="250">
 </p>
